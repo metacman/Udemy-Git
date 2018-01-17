@@ -32,4 +32,8 @@ If you can't tolerate critics, don't do anything new or interesting - Jeff Bezos
 
 It always seems impossible until its done - Nelson Mandela
 
+<<<<<<< HEAD
 Live long and prosper - Spock
+=======
+A minute of thought is greater than an hour of talk - John Maxwell
+>>>>>>> bf9b7c58bda4eeb13f0c6c7c8c6230f59a3ea891
