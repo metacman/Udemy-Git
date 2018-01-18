@@ -24,6 +24,24 @@ Never give up! Failure and rejection are only the first step to succeeding - Jim
 
 Persistence can change failure into extraordinary achievement - Matt Biondi
 
+<<<<<<< HEAD
 Winners never quit and quitters never win - Vince Lombardi
 
 A winner never stops trying - Tom Landry
+=======
+Remember that failure is an event, not a person - Zig Ziglar
+
+Life is not fair; get used to it - Bill Gates
+
+If you can't tolerate critics, don't do anything new or interesting - Jeff Bezos
+
+It always seems impossible until its done - Nelson Mandela
+
+Live long and prosper - Spock
+
+A minute of thought is greater than an hour of talk - John Maxwell
+
+Be healed - Ernest Angley
+
+
+>>>>>>> master
