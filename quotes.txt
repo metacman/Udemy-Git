@@ -20,4 +20,26 @@ To answer before listening, that is folly and shame - King Solomon
 
 For I know the plans I have for you, plans to prosper you and not to harm you, plans to give you hope and a future - Prophet Jeremiah
 
+<<<<<<< HEAD
 Love the Lord your God with all you heart, soul mind and strength - Moses
+=======
+Never give up! Failure and rejection are only the first step to succeeding - Jim Valvanao
+
+Persistence can change failure into extraordinary achievement - Matt Biondi
+
+Remember that failure is an event, not a person - Zig Ziglar
+
+Life is not fair; get used to it - Bill Gates
+
+If you can't tolerate critics, don't do anything new or interesting - Jeff Bezos
+
+It always seems impossible until its done - Nelson Mandela
+
+Live long and prosper - Spock
+
+A minute of thought is greater than an hour of talk - John Maxwell
+
+Be healed - Ernest Angley
+
+
+>>>>>>> master
