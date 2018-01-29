@@ -1,0 +1,103 @@
+* 03cfde5 (HEAD -> master, origin/master) added a pq3.txt file as part of git 6 hour class trying commit with two lines of text
+* 1b0c474 added the bye saying
+*   b7730e1 Merge branch 'master' of https://github.com/metacman/Udemy-Git
+|\  
+| * 883bc34 added my 'sugar be goot' saying
+| * 1f807c8 added a frequent blood sugar saying
+* | b0b2596 added my remember line
+* | a12bcb8 added a kel quote
+|/  
+*   4eaba5f Merge branch 'master' of https://github.com/metacman/Udemy-Git
+|\  
+| * 004e3ea added another saying of mine
+* | 5f49bef added another thing I say regularly
+|/  
+*   0b067bf Merge branch 'master' of https://github.com/metacman/Udemy-Git
+|\  
+| * 4d4f0e9 added an abe lincoln quote
+* | f8b2de3 added a quote from (I think) Jim Carey
+|/  
+* 8483b2e removed the last quote 'Hay-A'.
+* 44a86dc adding a short script file to repo
+* efcdf20 added another copy of the pq file
+* 94bf13f Added a Geo HW Bush quote
+* baeced9 added something else I say often
+* 9c95fb6 Removed a duplicate quote
+* ca80765 Added a Fife quote
+* b78699c removed some Bible quotes
+* 3752ba7 added a woo hoo quote
+* fe628e7 added 4 new files
+* 9d5f4e1 cleaned up the quotes file
+* e9335f6 added a barney fife quote
+| *   3d7d554 (refs/stash) WIP on master: 08d00a3 added another thing I say often
+| |\  
+|/ /  
+| * 49ecc84 index on master: 08d00a3 added another thing I say often
+|/  
+* 08d00a3 added another thing I say often
+* cd6bf5a added a drucker quote
+* fb94294 clean-up of select lines
+*   745a692 Merge branch 'Sports-Quotes'
+|\  
+| *   a058962 (origin/Sports-Quotes) Merge branch 'master' into Sports-Quotes
+| |\  
+| * | a7752ab lombardi and landry
+* | |   4f3b1c9 (origin/Bible-quotes) Merge branch 'master' into Bible-quotes
+|\ \ \  
+| | |/  
+| |/|   
+| * | 06fafe4 (origin/personal, origin/business-quotes) added one more quote
+| * |   36a38a0 Merge branch 'personal'
+| |\ \  
+| | * | f75bf4d not added previously and added one new quote
+| * | | e7bd930 cleaned up unneeded lines
+| * | |   b185858 Merge branch 'master' of https://github.com/metacman/Udemy-Git
+| |\ \ \  
+| | * \ \   bf9b7c5 Merge pull request #5 from metacman/business-quotes
+| | |\ \ \  
+| | | * | | 9dc55b9 added a J Maxwell quote
+| * | | | |   8dfd0c0 Merge branch 'pers2'
+| |\ \ \ \ \  
+| | * | | | | c03591c changed dinner to supper
+| * | | | | | 02f7fb8 changed the supper quote
+| |/ / / / /  
+| * | | | |   937107f Merge branch 'personal'
+| |\ \ \ \ \  
+| | | |_|/ /  
+| | |/| | |   
+| | * | | | 407d60a added a dinner quote
+| * | | | | 47e610f added a spock quote
+| |/ / / /  
+| * | | | 1799655 first commit on personal quotes
+| |/ / /  
+| * | |   a7e1ae1 Merge pull request #4 from metacman/business-quotes
+| |\ \ \  
+| | |/ /  
+| | * | e0f04c2 added a nelson mandela quote
+| | * | e90530d bezos
+| * | |   d6ac44f Merge pull request #3 from metacman/business-quotes
+| |\ \ \  
+| | |/ /  
+| | * | 5984abb two new biz quotes
+| |/ /  
+| * |   cb23be9 Merge pull request #2 from metacman/Sports-Quotes
+| |\ \  
+| | |/  
+| | * 4b315d1 sports quotes
+| |/  
+| *   52377ca Merge pull request #1 from metacman/Bible-quotes
+| |\  
+* | | 421a26c moses quote
+| |/  
+|/|   
+* | 929f68b corrected typos
+* | eb13b2c Two Bible Verses
+|/  
+* a6265e6 the babe
+* a5f4123 ben franklin
+* 90f10db Revert "Revert "uncle milty""
+* 852fecd Revert "uncle milty"
+* 3fb7097 uncle milty
+* 09e387c added one
+* 3244e95 simple realigns
+* 54012df Initial commit
