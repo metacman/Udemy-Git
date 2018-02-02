@@ -2,6 +2,6 @@
 
 echo "hi all"
 
-cls
+clear
 
 echo "Bye all"
