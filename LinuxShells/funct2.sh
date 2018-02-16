@@ -6,7 +6,6 @@ function file_count() {
    echo "${DIR}:"
    echo "$NUMBER_OF_FILES"
 }
-
 file_count ~
 file_count ~/Desktop
 file_count ~/Documents
