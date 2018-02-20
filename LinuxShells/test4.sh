@@ -38,3 +38,12 @@ echo "..."
 echo "..."
 read -n 1 -s -r -p "Press any key to clear the screen and continue"
 clear
+echo
+echo "..Displaying the content of ${FILE} "
+echo
+sleep 03
+cat ${FILE}
+echo
+echo
+read -n 1 -s -r -p "Press any key to clear the screen and continue"
+clear
