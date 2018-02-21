@@ -11,8 +11,8 @@ List of Udemy courses completed using this repo
 Git
 1.  Command Line Essentials: Git Bash for Windows
 2.  Learn Git by Doing: A step-by-step guide to version control
-3.  Git Going Fast: One Hour Git Crash Course
-4.  Git Complete: The definitive, step-by-step guide to Git
+3.  Git Going Fast: One Hour Git Crash Course (also uses the git-demo repo)
+4.  Git Complete: The definitive, step-by-step guide to Git (also uses the Starter-web repo)
 5.  Short and Sweet: Next-Level Git and GitHub
 
 Linux/Unix
