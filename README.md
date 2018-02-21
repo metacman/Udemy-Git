@@ -2,11 +2,11 @@
 
 This is the first file in the Udemy Git repository.
 
-## Repository Contents
+## Repository Content
 
-This repo is to store files used in Udemy courses
+This repo is used to store files for Udemy courses.
 
-List of Udemy courses completed using this repo
+A list of the Udemy courses completed using this repo is shown below.
 
 Git
 1.  Command Line Essentials: Git Bash for Windows
