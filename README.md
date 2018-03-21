@@ -1,10 +1,10 @@
 # Udemy-Git Repository
 
-This is the README file for the Udemy Git repository.
+This is the README file for the Udemy-Git repository.
 
 ## Repository Content
 
-This repo is used to store files for Udemy courses.
+This repo is used to store files for several different Udemy courses.
 
 The list below shows the Udemy courses completed using this repo.
 
