@@ -18,5 +18,5 @@ The list below shows the Udemy courses completed using this repo.
 ### Linux/Unix
 1.  Linux for Beginners 
 2.  Linux Command Line Essentials 
-3.  Bash Scripting and Shell Programming
+3.  Bash Scripting and Shell Programming (not completed)
 
