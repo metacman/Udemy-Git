@@ -1,0 +1,25 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = claytonta
+	email = me_tacman@hotmail.com
+[credential]
+	helper = manager
+[core]
+	; set Notepad++ as the default editor
+	editor = 'C:\\Program Files\\Notepad++\\notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+[merge]
+	tool = p4merge
+[mergetool "p4merge"]
+	path = c:/Program Files/Perforce/p4merge.exe
+[mergetool]
+	prompt = false
+[diff]
+	tool = p4merge
+[difftool "p4merge"]
+	path = c:/Program Files/Perforce/p4merge.exe
+[difftool]
+	prompt = false
