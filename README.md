@@ -6,7 +6,7 @@ This is the README file for the Udemy-Git repository.
 
 This repo is used to store files for several different Udemy courses.
 
-The list below shows the Udemy courses completed using this repo.
+The list below shows the names of the Udemy courses completed using this repo.
 
 ### Git
 1.  Command Line Essentials: Git Bash for Windows
