@@ -10,6 +10,8 @@ echo
 # if the file name they enter is a regular file tell them and exit with code zero
 echo
 echo "${FILENAME} is a regular file"
+read -n 1 -s -r -p "Press any key to clear the screen and continue"
+clear
 exit 0
 elif [ -d ${FILENAME} ]
 then
