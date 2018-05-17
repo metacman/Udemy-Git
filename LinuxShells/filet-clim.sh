@@ -11,7 +11,7 @@ clear
 echo "
 
 ${FILEN} is a regular file"
-sleep 03
+sleep 01
 elif [ -d ${FILEN} ]
 then
 echo
@@ -19,18 +19,20 @@ echo
 clear
 # the coding in the echo command below is for color; it displays the word 'directory' in purple
 echo -e "${FILEN} is a \e[1;35mdirectory\e[0m"
-sleep 03
+sleep 01
 else
 clear
 echo "${FILEN} is not a regular file nor a directory"
-sleep 03
+sleep 01
 fi
 echo
 echo "..Displaying an 'ls -l' for ${FILEN} "
 echo
-sleep 03
+sleep 01
 ls -l ${FILEN}
 echo
 echo
 read -n 1 -s -r -p "Press any key to clear the screen and continue"
+clear
 done
+
