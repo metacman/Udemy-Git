@@ -1,10 +1,10 @@
 #!/bin/bash
 # exercise 5
-# displays "man", "bear", "pig", "dog", "cat", and "sheep" to the screen 
+# displays "man", "bear", "pig", "dog" and "cat" to the screen 
 clear
 echo "..."
 echo "..."
-for NAME in man bear pig dog cat sheep
+for NAME in man bear pig dog cat
 do
 echo "${NAME}"
 done
