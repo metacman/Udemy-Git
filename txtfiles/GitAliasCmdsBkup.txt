@@ -1,0 +1,12 @@
+git alias commands backup file
+
+alias cls='clear'
+alias dir='ls -al'
+alias gitl='git log --all --color --graph --oneline'
+alias gitp='git pull'
+alias gits='git status'
+alias lgg='git log --pretty=format:"%C(ul red)%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cd) %C(ul magenta)<%an>" --date=short --graph -25'
+alias ll='ls -l'
+alias ls='ls -F --color=auto --show-control-chars'
+alias npp='/C/Program\ Files/Notepad++/notepad++.exe'
+alias p4='p4merge.exe'
