@@ -1,6 +1,6 @@
 # Udemy-Git Repository
 
-The content of this file is contained in the readme mark down file named README.md.
+The content of this file is contained in README.md.
 
 ## Repository Content
 
